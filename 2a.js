@@ -1000,7 +1000,7 @@ var passwords = [
     '16-18 m: mmtmrxmmmmmmmmmcmmm',
     '9-11 b: bkbltdvbtwbbtsb'
 ];
-var p = 0;
+
 var validPasses = 0;
 for (let password of passwords) {
     var split = password.split(" ");
